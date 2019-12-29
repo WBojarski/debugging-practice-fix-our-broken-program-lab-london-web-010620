@@ -1,5 +1,5 @@
 hi = puts Hello World! # Correct this to "Hello World!"
 
-hi`
+hi
 # Your entire program should read:
 # puts "Hello World!"
